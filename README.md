@@ -51,8 +51,8 @@
       - Docker & Cloud Deployment
       - Deep Learning
 
-⚡  fun_fact    : "I debug faster with coffee ☕"
-💬  life_motto  : "Code • Create • Innovate 🌟"
+⚡  fun_fact    : "NO FUN FACT ABOUT ME, IT'S JUST A BACKUP☕"
+💬  life_motto  : "TO KILL AND CONQUER"
 ```
 
 <br clear="right"/>
