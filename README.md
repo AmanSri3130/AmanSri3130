@@ -1,87 +1,77 @@
-# <div align="center">🚀 Aman Srivastava</div>
-
 <div align="center">
 
-### Full Stack Developer • AI/ML Enthusiast • MERN Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;MERN+Stack+Developer;Open+Source+Contributor;Building+Scalable+Web+Applications" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Aman%20Srivastava&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=58"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+Building+Scalable+Full+Stack+Applications;🤖+Creating+AI+Powered+Experiences;⚡+MERN+Stack+Developer+%7C+ML+Enthusiast;💡+Passionate+About+Innovation+%26+Technology" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/AmanSri3130?style=for-the-badge&logo=github&color=0891b2"/>
+<img src="https://img.shields.io/github/stars/AmanSri3130?style=for-the-badge&logo=github&color=f59e0b"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-10b981?style=for-the-badge&logo=opensourceinitiative"/>
+<img src="https://komarev.com/ghpvc/?username=AmanSri3130&style=for-the-badge&color=8b5cf6"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Professional Overview
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d3d-4f72-91c4-3b4b9b8f4b6f.gif">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-74b1-42e8-9e9f-0f9c1dbf76e8.gif">
 
 ```yaml
-Name: Aman Srivastava
-Role: Full Stack Developer
-Education: B.Tech CSE @ NIMS University
-Location: Rajasthan, India
+name: Aman Srivastava
+role: Full Stack Developer & AI Engineer
+education: B.Tech CSE @ NIMS University
+location: Rajasthan, India
 
-Current Focus:
-  - AI Powered Applications
-  - MERN Stack Development
-  - Machine Learning Projects
-  - Backend Architecture
+specializations:
+  - Full Stack Web Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Systems
+  - Interactive UI/UX
 
-Currently Learning:
-  - Advanced Backend Systems
-  - AI Agents & LLMs
-  - Cloud Computing
+currently_building:
+  - AI SQL Query Generator
+  - University Connect Platform
+  - AI Recommendation Engines
+  - Real-Time Dashboards
 
-Motto:
-  "Code • Build • Innovate"
+tech_philosophy:
+  "Build scalable systems with beautiful user experiences."
+
+future_goals:
+  - Launch SaaS Products
+  - Contribute to Open Source
+  - Build AI-driven platforms
 ```
 
----
-
-# 🏆 Professional Badges
-
-<div align="center">
-
-![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge)
-
-![](https://img.shields.io/badge/AI-Machine%20Learning-red?style=for-the-badge\&logo=tensorflow)
-
-![](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge\&logo=mongodb)
-
-![](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge\&logo=github)
-
-![](https://img.shields.io/github/followers/AmanSri3130?style=for-the-badge\&logo=github\&color=blue)
-
-![](https://img.shields.io/github/stars/AmanSri3130?style=for-the-badge\&logo=github\&color=yellow)
-
-![](https://komarev.com/ghpvc/?username=AmanSri3130\&style=for-the-badge\&color=brightgreen)
-
-</div>
+<br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Ecosystem
 
 <div align="center">
 
-## Frontend
+### Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,redux" />
 
-## Backend
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgresql" />
 
-## Programming Languages
+### Programming & AI
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch" />
 
-## Tools & Platforms
+### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
 
 </div>
 
@@ -91,41 +81,87 @@ Motto:
 
 <div align="center">
 
-| Project                        | Description                                        | Tech Stack              |
-| ------------------------------ | -------------------------------------------------- | ----------------------- |
-| 🤖 AI SQL Generator            | Convert natural language into SQL queries using AI | React • Python • LLM    |
-| 🎵 Emotion Music Recommender   | AI-powered mood-based music recommendation system  | Python • ML • Streamlit |
-| 🎬 Movie Recommendation System | Personalized movie recommendation platform         | Python • ML             |
-| 🌐 University Connect          | Student networking and social platform             | MERN Stack              |
-| 📊 AI Analytics Dashboard      | Interactive data visualization dashboard           | React • D3.js           |
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI SQL Query Generator
+
+AI-powered platform that converts natural language into optimized SQL queries using Large Language Models.
+
+### Tech Used
+
+`React` `Python` `LLMs` `FastAPI`
+
+</td>
+
+<td width="50%">
+
+## 🌐 University Connect Platform
+
+A professional student networking platform with reels, chat system, and university verification.
+
+### Tech Used
+
+`MERN Stack` `Socket.io` `JWT`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🎵 Emotion-Based Music Recommender
+
+Machine learning application that detects emotions and recommends personalized music.
+
+### Tech Used
+
+`Python` `ML` `Streamlit` `NLP`
+
+</td>
+
+<td width="50%">
+
+## 📊 Interactive Analytics Dashboard
+
+Real-time visualization dashboard for complex datasets with interactive charts.
+
+### Tech Used
+
+`React` `D3.js` `Node.js`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Performance Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanSri3130&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AmanSri3130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F7FF&title_color=00F7FF"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSri3130&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSri3130&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSri3130&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSri3130&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSri3130&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSri3130&custom_title=Aman's%20Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -141,51 +177,51 @@ Motto:
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 Achievements & Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmanSri3130&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmanSri3130&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Professional Presence
 
 <div align="center">
 
 <a href="https://github.com/AmanSri3130">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 <a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
 </div>
 
 ---
 
-# 💻 Coding Animation
+# 💻 Live Coding Animation
 
 <div align="center">
 
-<img width="550" src="https://user-images.githubusercontent.com/74038190/213911167-25c5e95b-2d7b-4f52-9c74-0db0d4b53f7c.gif">
+<img width="700" src="https://user-images.githubusercontent.com/74038190/212750631-f0e6b2f8-0d2f-4e11-9e16-6c0f8d4f7c44.gif">
 
 </div>
 
 ---
 
-# ☄️ Random Developer Quote
+# ☄️ Inspirational Quote
 
 <div align="center">
 
@@ -195,10 +231,22 @@ Motto:
 
 ---
 
+# 🎧 Development Lifestyle
+
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+<img width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=150&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Engineering Innovative Digital Experiences ⚡
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
 
 </div>
