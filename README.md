@@ -1,77 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Aman%20Srivastava&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=Aman%20Srivastava&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20%2F%20ML%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+Building+Scalable+Full+Stack+Applications;🤖+Creating+AI+Powered+Experiences;⚡+MERN+Stack+Developer+%7C+ML+Enthusiast;💡+Passionate+About+Innovation+%26+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+Building+Scalable+Web+Applications;🤖+AI+%26+Machine+Learning+Explorer;⚡+MERN+Stack+Developer;💡+Passionate+About+Innovation+%26+Technology" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/github/followers/AmanSri3130?style=for-the-badge&logo=github&color=0891b2"/>
 <img src="https://img.shields.io/github/stars/AmanSri3130?style=for-the-badge&logo=github&color=f59e0b"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-10b981?style=for-the-badge&logo=opensourceinitiative"/>
 <img src="https://komarev.com/ghpvc/?username=AmanSri3130&style=for-the-badge&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-10b981?style=for-the-badge&logo=opensourceinitiative"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Professional Overview
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-74b1-42e8-9e9f-0f9c1dbf76e8.gif">
 
 ```yaml
 name: Aman Srivastava
-role: Full Stack Developer & AI Engineer
+role: Full Stack Developer & AI Enthusiast
 education: B.Tech CSE @ NIMS University
 location: Rajasthan, India
 
-specializations:
-  - Full Stack Web Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Backend Systems
-  - Interactive UI/UX
+currently_working_on:
+  - AI Powered Applications
+  - Machine Learning Projects
+  - MERN Stack Development
+  - Data Science Projects
 
-currently_building:
-  - AI SQL Query Generator
-  - University Connect Platform
-  - AI Recommendation Engines
-  - Real-Time Dashboards
+currently_learning:
+  - Advanced Backend
+  - AI Agents & LLMs
+  - Docker & Deployment
+  - Cloud Computing
 
-tech_philosophy:
-  "Build scalable systems with beautiful user experiences."
-
-future_goals:
-  - Launch SaaS Products
-  - Contribute to Open Source
-  - Build AI-driven platforms
+life_motto:
+  "Code • Create • Innovate"
 ```
 
 <br clear="right"/>
 
 ---
 
-# ⚡ Tech Ecosystem
+# ⚡ Tech Stack & Skills
 
 <div align="center">
 
-### Frontend Engineering
+## 💻 Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react" />
 
-### Backend & Databases
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgresql" />
+## 🚀 Backend & Databases
 
-### Programming & AI
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker" />
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch" />
+<br/><br/>
 
-### DevOps & Tools
+## 🤖 AI / ML & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
@@ -87,23 +85,23 @@ future_goals:
 
 ## 🤖 AI SQL Query Generator
 
-AI-powered platform that converts natural language into optimized SQL queries using Large Language Models.
+Generate SQL queries using AI & LLMs from natural language input.
 
-### Tech Used
+### ⚙️ Tech Stack
 
-`React` `Python` `LLMs` `FastAPI`
+React • Python • FastAPI • LLM
 
 </td>
 
 <td width="50%">
 
-## 🌐 University Connect Platform
+## 🎵 Emotion-Based Music Recommender
 
-A professional student networking platform with reels, chat system, and university verification.
+Detect emotions and recommend personalized music dynamically.
 
-### Tech Used
+### ⚙️ Tech Stack
 
-`MERN Stack` `Socket.io` `JWT`
+Python • Machine Learning • NLP • Streamlit
 
 </td>
 </tr>
@@ -111,25 +109,25 @@ A professional student networking platform with reels, chat system, and universi
 <tr>
 <td width="50%">
 
-## 🎵 Emotion-Based Music Recommender
+## 🌐 University Connect Platform
 
-Machine learning application that detects emotions and recommends personalized music.
+Social networking platform for students and alumni across universities.
 
-### Tech Used
+### ⚙️ Tech Stack
 
-`Python` `ML` `Streamlit` `NLP`
+MERN Stack • JWT • Socket.io
 
 </td>
 
 <td width="50%">
 
-## 📊 Interactive Analytics Dashboard
+## 🎬 Movie Recommendation System
 
-Real-time visualization dashboard for complex datasets with interactive charts.
+AI-powered personalized movie recommendation engine.
 
-### Tech Used
+### ⚙️ Tech Stack
 
-`React` `D3.js` `Node.js`
+Python • ML • Recommendation Systems
 
 </td>
 </tr>
@@ -139,7 +137,7 @@ Real-time visualization dashboard for complex datasets with interactive charts.
 
 ---
 
-# 📈 GitHub Performance Analytics
+# 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
@@ -157,7 +155,7 @@ Real-time visualization dashboard for complex datasets with interactive charts.
 
 ---
 
-# 📊 Contribution Activity Graph
+# 📈 Contribution Heatmap
 
 <div align="center">
 
@@ -177,7 +175,7 @@ Real-time visualization dashboard for complex datasets with interactive charts.
 
 ---
 
-# 🏆 Achievements & Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -187,7 +185,7 @@ Real-time visualization dashboard for complex datasets with interactive charts.
 
 ---
 
-# 🌍 Professional Presence
+# 🌍 Connect With Me
 
 <div align="center">
 
@@ -211,7 +209,7 @@ Real-time visualization dashboard for complex datasets with interactive charts.
 
 ---
 
-# 💻 Live Coding Animation
+# 💻 Coding Animation
 
 <div align="center">
 
@@ -221,7 +219,7 @@ Real-time visualization dashboard for complex datasets with interactive charts.
 
 ---
 
-# ☄️ Inspirational Quote
+# ☄️ Random Dev Quote
 
 <div align="center">
 
@@ -231,7 +229,7 @@ Real-time visualization dashboard for complex datasets with interactive charts.
 
 ---
 
-# 🎧 Development Lifestyle
+# 🎧 Coding Vibes
 
 <div align="center">
 
