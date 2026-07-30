@@ -166,15 +166,26 @@
 
 <!-- ══════════════════ TROPHIES ══════════════════ -->
 
-<div align="center">
-<h2>🏆 GitHub Trophies</h2>
-<br/>
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmanSri3130&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<div align="center">
+
+# 🏅 Badges & Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-Stack-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
+---
 
 ---
 
